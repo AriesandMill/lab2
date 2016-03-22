@@ -9,3 +9,4 @@ main.o:main.cpp bmi.h
 
 clean :
 	rm bmi.o main.o
+
